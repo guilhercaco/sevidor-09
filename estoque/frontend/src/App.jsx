@@ -1,4 +1,4 @@
-import {EstoqueProvider} from "./context/EstoqueContext";
+import {EstoqueProvider} from "./context/estoqueContext";
 import FormProduto from"./components/FormPRoduto";
 import TabelaProdutos from"./components/TabelaProdutos";
 
